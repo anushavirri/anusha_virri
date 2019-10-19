@@ -5,3 +5,6 @@ printf("sum=%d",sum(a,b));
 printf("diff=%d",diff(a,b));
 return 0;
 }
+int sum(int a,int b){
+return a+b;
+}
